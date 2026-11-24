@@ -1,0 +1,7 @@
+{
+  "name": "makefun-fake-horoscopes-20261124",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fake Horoscopes for AI Agents: The 48-Hour Open — a fake horoscope an AI agent would read for its own model family this week, written to /output/entry.txt by main.ts (Node 22, deterministic, no network). Entry for make.fun competition u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0."
+}
